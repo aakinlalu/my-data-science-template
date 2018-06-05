@@ -1,7 +1,7 @@
-crime_class
+Project Name
 ==============================
 
-to classify crime
+to Project Name
 
 Project Organization
 ------------
